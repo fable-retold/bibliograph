@@ -128,7 +128,7 @@ bibliograph delete -s MySource rec-001
 
 ## Part of the Retold Framework
 
-Bibliograph is a module in the [Retold](https://github.com/stevenvelozo/retold) meta-framework, part of the Meadow module group.
+Bibliograph is a module in the [Retold](https://github.com/fable-retold/retold) meta-framework, part of the Meadow module group.
 
 ## Testing
 
@@ -152,4 +152,4 @@ MIT
 
 ## Contributing
 
-Pull requests are welcome. For details on our code of conduct, contribution process, and testing requirements, see the [Retold Contributing Guide](https://github.com/stevenvelozo/retold/blob/main/docs/contributing.md).
+Pull requests are welcome. For details on our code of conduct, contribution process, and testing requirements, see the [Retold Contributing Guide](https://github.com/fable-retold/retold/blob/main/docs/contributing.md).
